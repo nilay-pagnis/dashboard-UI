@@ -1,7 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+ScreenShots of dashboard UI
+![dashboard_img1](https://github.com/nilay-pagnis/dashboard-UI/assets/61799574/79af080e-bcc9-41d3-b515-b15880a6b235)
+![dashboard_img2](https://github.com/nilay-pagnis/dashboard-UI/assets/61799574/b2beb9c5-a770-494a-a2f3-743847ad3c11)
 
+Hope you Like it:)
+
+You can start project by following given simple steps 
 First, run the development server:
 
 ```bash
