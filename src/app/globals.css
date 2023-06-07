@@ -25,3 +25,84 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+
+.text-size {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 88px;
+}
+.bg-color {
+  background-color: rgb(236, 234, 234);
+}
+.bg-main-container {
+  background-color: whitesmoke;
+}
+.container {
+  height: 80%;
+  width: 60%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: whitesmoke;
+  display: flex;
+}
+.left-container {
+  background-color: black;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.right-container {
+  width: 80%;
+}
+.left-logo {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+}
+.main-heading {
+  height: 90%;
+  margin: 85px 20px 20px 112px;
+}
+.sub-heading {
+  font-weight: 400;
+  font-size: 16px;
+}
+.login-with-google, .login-with-apple {
+  display: flex;
+}
+.login-with-google p, .login-with-apple p {
+  margin-left: 5px;
+  font-size: 12px;
+}
+.login-with-apple {
+  margin-left: 55px;
+}
+.login-form > label{
+  font-size: 13px;
+}
+.login-form>input {
+  font-size: 15px;
+  border-radius: 10px;
+  padding: 5px 10px 5px 10px;
+  border-style: none;
+}
+.link-style {
+  font-size: 14px;
+  margin-top: 10px;
+}
+.signin-btn {
+  background-color: black;
+  color: white;
+  width: 60%;
+  height: 35px;
+  border-radius: 10px;
+}

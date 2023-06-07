@@ -1,0 +1,34 @@
+.heading {
+    font-weight: bold;
+    font-size: 18px;
+}
+.search-date > p{
+    color: #858585;
+    font-weight: 400;
+    font-size: 14px;
+}
+.search-date {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pink-dot {
+    width: 20px;
+    height: 20px;
+    background-color: #E9A0A0;
+}
+.graph-info-container {
+    display: flex;
+}
+.guest {
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+.guest > img, .user > img {
+   margin-right: 10px;
+}
+.user {
+    display: flex;
+    padding-right: 20px;
+}

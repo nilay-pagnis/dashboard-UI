@@ -1,0 +1,34 @@
+.piechart-container {
+    display: flex;
+    justify-content: space-around;
+}
+.product-wrapper > h1 {
+    font-weight: bold;
+    font-size: 18px;
+}
+.product-wrapper > p {
+    color: #858585;
+    font-weight: 400;
+    font-size: 12px;
+}
+.products-list {
+    width: 50%;
+}
+.product-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.percent {
+    color: gray;
+}
+.productName {
+    display: flex;
+}
+.productName > img {
+    margin-right: 20px;
+}
+.product-indo {
+    font-size: 12px;
+}

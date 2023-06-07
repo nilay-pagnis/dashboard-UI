@@ -1,0 +1,23 @@
+.info-container {
+    display: flex;
+    justify-content: space-between;
+}
+.total-revenues {
+    background: #DDEFE0;
+    border-radius: 20px;
+    width: 20%;
+    padding: 10px;
+}
+.total-revenues > p{
+    font-weight: 400;
+    font-size: 12px;
+}
+.total-revenues> h1 {
+    font-weight: 700;
+    font-size: 24px;
+}
+.total-revenues> img {
+    position: relative;
+    top: 15px;
+    left: 150px;
+}

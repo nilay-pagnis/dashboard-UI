@@ -1,0 +1,27 @@
+.schedule-wrapper>h1 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.schedule-wrapper>p {
+    color: #858585;
+    font-weight: 400;
+    font-size: 12px;
+}
+.schedule-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.schedule-info {
+    display: flex;
+    margin-top: 2px;
+}
+.schedule-details {
+    margin-left: 20px;
+}
+.time, .address {
+    color: gray;
+    font-size: 12px;
+}
